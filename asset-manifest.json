@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rotract_Ikons/static/css/main.8a8a2e83.css",
-    "main.js": "/Rotract_Ikons/static/js/main.b64f4423.js",
+    "main.js": "/Rotract_Ikons/static/js/main.ca9f85e6.js",
     "static/js/453.d5cb6a99.chunk.js": "/Rotract_Ikons/static/js/453.d5cb6a99.chunk.js",
     "static/media/WhatIsRotaract_.mp4": "/Rotract_Ikons/static/media/WhatIsRotaract_.a71252b1d39a74c6a4dc.mp4",
     "static/media/Cricket.jpeg": "/Rotract_Ikons/static/media/Cricket.432d24ed44e0b9ba262d.jpeg",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/Rotract_Ikons/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Rotract_Ikons/index.html",
     "main.8a8a2e83.css.map": "/Rotract_Ikons/static/css/main.8a8a2e83.css.map",
-    "main.b64f4423.js.map": "/Rotract_Ikons/static/js/main.b64f4423.js.map",
+    "main.ca9f85e6.js.map": "/Rotract_Ikons/static/js/main.ca9f85e6.js.map",
     "453.d5cb6a99.chunk.js.map": "/Rotract_Ikons/static/js/453.d5cb6a99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a8a2e83.css",
-    "static/js/main.b64f4423.js"
+    "static/js/main.ca9f85e6.js"
   ]
 }
