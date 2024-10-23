@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Rotract_Ikons/static/css/main.9a14b7c2.css",
+    "main.js": "/Rotract_Ikons/static/js/main.b64f4423.js",
+    "static/js/453.d5cb6a99.chunk.js": "/Rotract_Ikons/static/js/453.d5cb6a99.chunk.js",
+    "static/media/WhatIsRotaract_.mp4": "/Rotract_Ikons/static/media/WhatIsRotaract_.a71252b1d39a74c6a4dc.mp4",
+    "static/media/Cricket.jpeg": "/Rotract_Ikons/static/media/Cricket.432d24ed44e0b9ba262d.jpeg",
+    "static/media/Bookamrk.jpg": "/Rotract_Ikons/static/media/Bookamrk.b0c74861f092ab7fba81.jpg",
+    "static/media/Touchbles.jpeg": "/Rotract_Ikons/static/media/Touchbles.df66391c6f801aee86e0.jpeg",
+    "static/media/Poppins-Light.ttf": "/Rotract_Ikons/static/media/Poppins-Light.be86c23ccc9cb2e1f4f1.ttf",
+    "static/media/PPMori-Regular.otf": "/Rotract_Ikons/static/media/PPMori-Regular.e647e964441593fd7fdf.otf",
+    "static/media/logoo.png": "/Rotract_Ikons/static/media/logoo.6b6b5fd7807a3d49b3f9.png",
+    "static/media/slick.svg": "/Rotract_Ikons/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Rotract_Ikons/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Rotract_Ikons/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Rotract_Ikons/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Rotract_Ikons/index.html",
+    "main.9a14b7c2.css.map": "/Rotract_Ikons/static/css/main.9a14b7c2.css.map",
+    "main.b64f4423.js.map": "/Rotract_Ikons/static/js/main.b64f4423.js.map",
+    "453.d5cb6a99.chunk.js.map": "/Rotract_Ikons/static/js/453.d5cb6a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a14b7c2.css",
+    "static/js/main.b64f4423.js"
+  ]
+}
